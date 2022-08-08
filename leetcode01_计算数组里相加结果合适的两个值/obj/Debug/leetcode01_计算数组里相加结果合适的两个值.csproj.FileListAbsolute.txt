@@ -1,0 +1,8 @@
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\obj\Debug\leetcode01_计算数组里相加结果合适的两个值.csproj.AssemblyReference.cache
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\obj\Debug\leetcode01_计算数组里相加结果合适的两个值.csproj.SuggestedBindingRedirects.cache
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\obj\Debug\leetcode01_计算数组里相加结果合适的两个值.csproj.CoreCompileInputs.cache
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\bin\Debug\leetcode01_计算数组里相加结果合适的两个值.exe.config
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\bin\Debug\leetcode01_计算数组里相加结果合适的两个值.exe
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\bin\Debug\leetcode01_计算数组里相加结果合适的两个值.pdb
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\obj\Debug\leetcode01_计算数组里相加结果合适的两个值.exe
+C:\Users\12486\Desktop\paradise\VS2022\csharp workspace\1_csharp基础\leetcode01_计算数组里相加结果合适的两个值\obj\Debug\leetcode01_计算数组里相加结果合适的两个值.pdb
